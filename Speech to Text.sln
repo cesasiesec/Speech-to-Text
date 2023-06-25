@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Speech to Text", "Speech to Text\Speech to Text.pyproj", "{E04CCF71-32C9-444E-8245-4B7281EB2E5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E04CCF71-32C9-444E-8245-4B7281EB2E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E04CCF71-32C9-444E-8245-4B7281EB2E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33840CC8-74ED-4C62-BCD3-39717360B036}
+	EndGlobalSection
+EndGlobal
